@@ -25,3 +25,9 @@
     <finalName>WebAppCal</finalName>
   </build>
 </project>
+<distributionManagement>
+  <repository>
+    <id>releases</id>
+    <url>http://146.148.95.159:8081/nexus/content/repositories/releases</url>
+  </repository>
+</distributionManagement>
